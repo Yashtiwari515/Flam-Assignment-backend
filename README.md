@@ -17,7 +17,7 @@ A CLI-based background job queue system built with Node.js.
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Yashtiwari515/Flam-Assignment-backend.git
 
 cd queuectl
 
